@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="VehicleSim.Application/VehicleSim.Application.csproj" />
+  <Project Path="VehicleSim.Core.Tests/VehicleSim.Core.Tests.csproj" Id="d6b96df3-035e-4308-b1f4-a9acbaa856d5" />
+  <Project Path="VehicleSim.Core/VehicleSim.Core.csproj" />
+  <Project Path="VehicleSim.Infrastructure/VehicleSim.Infrastructure.csproj" />
+  <Project Path="VehicleSim.UI/VehicleSim.UI.csproj" Id="08779eb5-4eee-4427-967a-bf6908cb7a63" />
+  <Project Path="VehicleSim.WebHost/VehicleSim.WebHost.csproj" Id="5ab538f3-f8fa-4496-ba05-5c29b87d481b" />
+</Solution>

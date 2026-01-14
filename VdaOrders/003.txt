@@ -1,0 +1,71 @@
+{
+    "headerId": 301,
+    "timestamp": "2026-01-09T12:00:00.000Z",
+    "manufacturer": "default",
+    "serialNumber": "003",
+    "version": "1.1.0",
+    "orderId": "PATH_GAMMA",
+    "orderUpdateId": 0,
+    "nodes": [
+      { "nodeId": "N300", "sequenceId": 0, "nodePosition": { "x": -15.0, "y": 9.0, "mapId": "Warehouse_A" }, "released": true },
+      { "nodeId": "N301", "sequenceId": 1, "nodePosition": { "x": -23.0, "y": 9.0, "mapId": "Warehouse_A" }, "released": true },
+      { "nodeId": "N302", "sequenceId": 2, "nodePosition": { "x": -23.0, "y": 17.0, "mapId": "Warehouse_A" }, "released": true },
+      { "nodeId": "N303", "sequenceId": 3, "nodePosition": { "x": -31.0, "y": 17.0, "mapId": "Warehouse_A" }, "released": true },
+      { "nodeId": "N304", "sequenceId": 4, "nodePosition": { "x": -31.0, "y": 25.0, "mapId": "Warehouse_A" }, "released": true },
+      { "nodeId": "N305", "sequenceId": 5, "nodePosition": { "x": -23.0, "y": 25.0, "mapId": "Warehouse_A" }, "released": true },
+      { "nodeId": "N306", "sequenceId": 6, "nodePosition": { "x": -23.0, "y": 33.0, "mapId": "Warehouse_A" }, "released": true },
+      { "nodeId": "N307", "sequenceId": 7, "nodePosition": { "x": -15.0, "y": 33.0, "mapId": "Warehouse_A" }, "released": true },
+      { "nodeId": "N308", "sequenceId": 8, "nodePosition": { "x": -15.0, "y": 41.0, "mapId": "Warehouse_A" }, "released": true }
+    ],
+    "edges": [
+      { "edgeId": "E300_301", "sequenceId": 0, "startNodeId": "N300", "endNodeId": "N301", "released": true },
+      { "edgeId": "E301_302", "sequenceId": 1, "startNodeId": "N301", "endNodeId": "N302", "released": true },
+      { "edgeId": "E302_303", "sequenceId": 2, "startNodeId": "N302", "endNodeId": "N303", "released": true },
+      { "edgeId": "E303_304", "sequenceId": 3, "startNodeId": "N303", "endNodeId": "N304", "released": true },
+      { "edgeId": "E304_305", "sequenceId": 4, "startNodeId": "N304", "endNodeId": "N305", "released": true },
+      { "edgeId": "E305_306", "sequenceId": 5, "startNodeId": "N305", "endNodeId": "N306", "released": true },
+      { "edgeId": "E306_307", "sequenceId": 6, "startNodeId": "N306", "endNodeId": "N307", "released": true },
+      { "edgeId": "E307_308", "sequenceId": 7, "startNodeId": "N307", "endNodeId": "N308", "released": true }
+    ]
+  }
+
+
+====================================================
+
+
+{
+    "headerId": 302,
+    "timestamp": "2026-01-09T12:05:00.000Z",
+    "manufacturer": "default",
+    "serialNumber": "003",
+    "version": "1.1.0",
+    "orderId": "PATH_GAMMA",
+    "orderUpdateId": 1,
+    "nodes": [
+      { "nodeId": "N300", "sequenceId": 0, "nodePosition": { "x": -15.0, "y": 9.0, "mapId": "Warehouse_A" }, "released": true },
+      { "nodeId": "N301", "sequenceId": 1, "nodePosition": { "x": -23.0, "y": 9.0, "mapId": "Warehouse_A" }, "released": true },
+      { "nodeId": "N302", "sequenceId": 2, "nodePosition": { "x": -23.0, "y": 17.0, "mapId": "Warehouse_A" }, "released": true },
+      { "nodeId": "N303", "sequenceId": 3, "nodePosition": { "x": -31.0, "y": 17.0, "mapId": "Warehouse_A" }, "released": true },
+      { "nodeId": "N304", "sequenceId": 4, "nodePosition": { "x": -31.0, "y": 25.0, "mapId": "Warehouse_A" }, "released": true },
+      { "nodeId": "N305", "sequenceId": 5, "nodePosition": { "x": -23.0, "y": 25.0, "mapId": "Warehouse_A" }, "released": true },
+      { "nodeId": "N306", "sequenceId": 6, "nodePosition": { "x": -23.0, "y": 33.0, "mapId": "Warehouse_A" }, "released": true },
+      { "nodeId": "N307", "sequenceId": 7, "nodePosition": { "x": -15.0, "y": 33.0, "mapId": "Warehouse_A" }, "released": true },
+      { "nodeId": "N308", "sequenceId": 8, "nodePosition": { "x": -15.0, "y": 41.0, "mapId": "Warehouse_A" }, "released": true },
+      { "nodeId": "N309", "sequenceId": 9, "nodePosition": { "x": -15.0, "y": 49.0, "mapId": "Warehouse_A" }, "released": true },
+      { "nodeId": "N310", "sequenceId": 10, "nodePosition": { "x": -23.0, "y": 49.0, "mapId": "Warehouse_A" }, "released": true },
+      { "nodeId": "N311", "sequenceId": 11, "nodePosition": { "x": -23.0, "y": 41.0, "mapId": "Warehouse_A" }, "released": true }
+    ],
+    "edges": [
+      { "edgeId": "E300_301", "sequenceId": 0, "startNodeId": "N300", "endNodeId": "N301", "released": true },
+      { "edgeId": "E301_302", "sequenceId": 1, "startNodeId": "N301", "endNodeId": "N302", "released": true },
+      { "edgeId": "E302_303", "sequenceId": 2, "startNodeId": "N302", "endNodeId": "N303", "released": true },
+      { "edgeId": "E303_304", "sequenceId": 3, "startNodeId": "N303", "endNodeId": "N304", "released": true },
+      { "edgeId": "E304_305", "sequenceId": 4, "startNodeId": "N304", "endNodeId": "N305", "released": true },
+      { "edgeId": "E305_306", "sequenceId": 5, "startNodeId": "N305", "endNodeId": "N306", "released": true },
+      { "edgeId": "E306_307", "sequenceId": 6, "startNodeId": "N306", "endNodeId": "N307", "released": true },
+      { "edgeId": "E307_308", "sequenceId": 7, "startNodeId": "N307", "endNodeId": "N308", "released": true },
+      { "edgeId": "E308_309", "sequenceId": 8, "startNodeId": "N308", "endNodeId": "N309", "released": true },
+      { "edgeId": "E309_310", "sequenceId": 9, "startNodeId": "N309", "endNodeId": "N310", "released": true },
+      { "edgeId": "E310_311", "sequenceId": 10, "startNodeId": "N310", "endNodeId": "N311", "released": true }
+    ]
+  }
