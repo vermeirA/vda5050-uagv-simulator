@@ -70,7 +70,7 @@ All services will be available as defined in your `docker-compose.yml`.
 - **MQTT Broker:** `localhost:1883`
 - **Seq server:** `localhost:5341`
 
-**Note:** Swagger is enabled at [http://localhost:8080/Swagger/index.html]
+> **Note:** Swagger is enabled at [http://localhost:8080/Swagger/index.html]
 
 ---
 
